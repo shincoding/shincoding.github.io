@@ -1,1 +1,2 @@
-# shincoding.github.io
+# personal_website
+Source code for my personal website.
